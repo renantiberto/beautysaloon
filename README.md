@@ -4,6 +4,8 @@ Projeto desenvolvido durante a NLW#6 - Together na trilha `Origin` da [Rocketsea
 
 ![image](https://user-images.githubusercontent.com/79670787/202032336-378adfe3-634d-42ae-835f-f53afe1601d3.png)
 
+<h4 align="center"><a href="https://renantiberto.github.io/beautysaloon/">Clique para visitar o projeto</a></h4>
+
 ## 🛠️ Construído com
 
 Aqui seguem as linguagens, tecnologias e ferramentas utilizadas para elaboração deste projeto.
