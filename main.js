@@ -30,7 +30,7 @@ function changeHeaderWhenScroll() {
 }
 
 // CAROUSEL COM SWIPER (SLIDER) - TESTIMONIALS
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper', {
   slidesPerView: 1,
   pagination: {
     el: '.swiper-pagination'
